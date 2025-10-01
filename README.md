@@ -75,4 +75,6 @@ Set up **2FA** with a 6-digit PIN to add security.
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/screenshot/highlight.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  Thursday 18 September 2025 Link is now responsive and functioning
+
+
+Update:  Wednesday 01 October 2025 Link is now working and available
